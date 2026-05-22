@@ -56,7 +56,7 @@ AI-powered content & information platform for News.
 
 ![Civil Digest AI Dashboard](Civil.png)
 ---
-## 1. ChatKYC AI
+## 4. AidIgnite
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -72,7 +72,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 5. WatchBlock
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -88,7 +88,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 6. FRY Networks
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -104,7 +104,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 7. MyEssayWriter.ai (MEW.ai)
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -120,7 +120,13 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 8. PerfectEssayWriter.ai (PEW.ai)
+
+
+
+
+
+
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -136,7 +142,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 9. MyPerfectWords (MPW)
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -152,7 +158,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 10. MyPerfectPaper (MPP) 
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -168,7 +174,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 11. WriteMyEssay.help (WMEH) 
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -184,7 +190,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 12. ThePetWorld.org (TPW) 
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -200,7 +206,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 13. EssayService.ai (ES.ai) 
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -216,7 +222,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 14. FreeEssayWriter.ai (FEW.ai)
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -232,7 +238,23 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 15. CollegeEssay.org (CE)
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+ 
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 16. 5StarEssays
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -248,7 +270,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 17. SharkPapers (SP) 
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -264,7 +286,7 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
+## 18. Pakistan Sweet Home (PSH)
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -280,61 +302,6 @@ AI-based KYC and compliance platform.
 
 ![ChatKYC Dashboard](chatkyc.png)
 ---
-## 1. ChatKYC AI
-🔗 https://chatkyc.ai/
-
-AI-based KYC and compliance platform.
-
-**My Work:**
-- Manual Testing
-- Automation Testing
-- Functional Testing
-- UI/UX Testing
-- Responsiveness Testing
----
-## ChatKYC AI Screenshot
-
-![ChatKYC Dashboard](chatkyc.png)
----
-## 1. ChatKYC AI
-🔗 https://chatkyc.ai/
-
-AI-based KYC and compliance platform.
-
-**My Work:**
-- Manual Testing
-- Automation Testing
-- Functional Testing
-- UI/UX Testing
-- Responsiveness Testing
----
-## ChatKYC AI Screenshot
-
-![ChatKYC Dashboard](chatkyc.png)
----
-## 1. ChatKYC AI
-🔗 https://chatkyc.ai/
-
-AI-based KYC and compliance platform.
-
-**My Work:**
-- Manual Testing
-- Automation Testing
-- Functional Testing
-- UI/UX Testing
-- Responsiveness Testing
----
-## ChatKYC AI Screenshot
-
-![ChatKYC Dashboard](chatkyc.png)
----
-
-
-
-
-
-
-
 
 
 
