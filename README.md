@@ -18,4 +18,8 @@ AI-based KYC and compliance platform.
 - UI/UX Testing
 - Responsiveness Testing
 ---
+## ChatKYC AI Screenshot
 
+![ChatKYC Dashboard](chatkyc.png)
+
+---
