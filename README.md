@@ -28,6 +28,7 @@ AI-powered KYC & financial compliance platform
 🔗 https://ai-slara.vercel.app/
 
 Persona-based AI chatbot system 
+
 **My Work:**
 - Manual Testing
 - Automation Testing
@@ -39,10 +40,10 @@ Persona-based AI chatbot system
 
 ![Slara Dashboard](Slara.png)
 ---
-## 1. ChatKYC AI
-🔗 https://chatkyc.ai/
+## 3. Civil Digest AI
+🔗 https://civil-dijest.vercel.app/
 
-AI-based KYC and compliance platform.
+AI-powered content & information platform for News.
 
 **My Work:**
 - Manual Testing
@@ -51,9 +52,9 @@ AI-based KYC and compliance platform.
 - UI/UX Testing
 - Responsiveness Testing
 ---
-## ChatKYC AI Screenshot
+## Civil Digest AI Screenshot
 
-![ChatKYC Dashboard](chatkyc.png)
+![Civil Digest AI Dashboard](Civil.png)
 ---
 ## 1. ChatKYC AI
 🔗 https://chatkyc.ai/
