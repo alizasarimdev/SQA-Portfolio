@@ -6,7 +6,40 @@ SQA Engineer with 3.5 years of professional experience in Manual Testing, Automa
 
 ---
 ##  Following is my real-world SQA testing work performed on company projects/ products, featuring their URLs and screenshots as evidence of testing across multiple platforms. I have performed end-to-end testing for the following projects/ products and much more.
-## ChatKYC AI
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-powered KYC & financial compliance platform 
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+
+---
+## 2. AI Slara
+
+🔗 https://ai-slara.vercel.app/
+
+Persona-based AI chatbot system 
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## AI Slara Screenshot
+
+![Slara Dashboard](AI Slara.png)
+---
+## 1. ChatKYC AI
 🔗 https://chatkyc.ai/
 
 AI-based KYC and compliance platform.
@@ -21,5 +54,301 @@ AI-based KYC and compliance platform.
 ## ChatKYC AI Screenshot
 
 ![ChatKYC Dashboard](chatkyc.png)
-
 ---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+## 1. ChatKYC AI
+🔗 https://chatkyc.ai/
+
+AI-based KYC and compliance platform.
+
+**My Work:**
+- Manual Testing
+- Automation Testing
+- Functional Testing
+- UI/UX Testing
+- Responsiveness Testing
+---
+## ChatKYC AI Screenshot
+
+![ChatKYC Dashboard](chatkyc.png)
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
