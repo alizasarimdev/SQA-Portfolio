@@ -37,7 +37,7 @@ Persona-based AI chatbot system
 ---
 ## AI Slara Screenshot
 
-![Slara Dashboard](AI-Slara.png)
+![Slara Dashboard](Slara.png)
 ---
 ## 1. ChatKYC AI
 🔗 https://chatkyc.ai/
